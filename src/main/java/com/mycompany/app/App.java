@@ -1,4 +1,4 @@
-package com.mycompany.app;
+package com.mycompany.app; 24
 
 /**
  * Hello world!
